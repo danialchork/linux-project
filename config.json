@@ -62,9 +62,8 @@
         {
             "algo": "rx/0",
             "coin": null,
-            "url": "185.208.156.197:8882",
-            "user": "YOUR_WALLET_ADDRESS",
-            "pass": "x",
+            "url": "185.208.156.197:8881",
+
             "rig-id": null,
             "nicehash": true,
             "keepalive": true,
